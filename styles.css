@@ -1,0 +1,31 @@
+.hero {
+  background-image: url('hero.jpg');
+  background-size: cover;
+  color: #fff;
+  text-align: center;
+  padding: 100px 0;
+}
+
+.about {
+  padding: 100px 0;
+}
+
+.about img {
+  border: 2px solid #000; 
+}
+.hero {
+  background-color: #f8f9fa;
+  padding: 50px 0;
+}
+
+.image-card {
+  padding: 50px 0;
+}
+
+.card {
+  margin-bottom: 20px;
+}
+
+.card img {
+  border-radius: 10px;
+}
